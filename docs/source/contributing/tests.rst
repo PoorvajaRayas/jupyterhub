@@ -2,14 +2,12 @@
 
 ===================================
 Testing JupyterHub and linting code
-===================================
+==================================
 
-Unit test help validate that JupyterHub works the way we think it does,
-and continues to do so when changes occur. They also help communicate
-precisely what we expect our code to do. 
+Unit test helps to confirm that JupyterHub works as it is supposed to work even when the modifications are made . Additionally they clarify us about our expectations from the code 
 
 JupyterHub uses `pytest <https://pytest.org>`_ for all our tests. You
-can find them under ``jupyterhub/tests`` directory in the git repository.
+can find them under ``jupyterhub/tests``  <https://github.com/jupyterhub/jupyterhub/tree/main/jupyterhub/tests>`_ directory in the git repository.
 
 Running the tests
 ==================
